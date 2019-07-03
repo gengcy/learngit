@@ -1,1 +1,2 @@
 git remove test
+远程同步测试
